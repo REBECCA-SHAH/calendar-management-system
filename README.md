@@ -9,3 +9,6 @@ The project currently uses in-memory storage and is intended as a functional pro
 Run the backend using `python app.py` from the `backend` folder (runs on port 5000).  
 Run the frontend using `npm install` and `npm run dev` from the `frontend` folder (runs on port 5173).
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1085d101-b400-4da5-b661-814fe38cd982" />
+<img width="501" height="488" alt="image" src="https://github.com/user-attachments/assets/774f4f59-3cfc-4936-a43b-cbce07bf002a" />
+
